@@ -1,4 +1,4 @@
-# reliance_digital-_clone
+# reliance_digital__clone
 Group Project
 This was our project for Unit-3 Construct week at Masai Shcool. Our target was to complete all main functionality of e-commerce website have, such as sing up to till to the buying of a product. We have completed this project in 5 days.
 
@@ -12,13 +12,13 @@ Reliance Digital is an Indian electronic products website and E-commerce platfor
 5) Harsh upadhyay
 
 
-##Tech Stack:
+## Tech Stack:
 ____________
 HTML
 CSS
 JAVASCRIPT
 
-##Features:
+## Features:
 _____________
 Login and Sign-in page
 Carouse for product pictures
@@ -28,12 +28,12 @@ Sort functions for Higher to Lower price,Lower to Higher price and Search bar fo
 Manual slider for product card.
 Add to cart opt for buying products.
 
-##Links:
+## Links:
 __________
  Netlify:- aquamarine-salmiakki-a58512.netlify.app
  
  
-##Home Page
+## Home Page
 ![Screenshot (562)](https://user-images.githubusercontent.com/101392912/192353982-dccf9c01-abe8-4776-b2e6-980aae6732c8.png)
 
 ## Login page
