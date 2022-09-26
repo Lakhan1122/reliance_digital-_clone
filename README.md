@@ -30,7 +30,8 @@ Add to cart opt for buying products.
 
 ## Links:
 __________
- Netlify:- aquamarine-salmiakki-a58512.netlify.app
+ Netlify:- 
+ https://aquamarine-salmiakki-a58512.netlify.app
  
  
 ## Home Page
